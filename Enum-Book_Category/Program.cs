@@ -33,7 +33,7 @@
         }
         catch (ArgumentException)
         {
-            Console.WriteLine("Geçersiz Kategori Girdişi Yaptınız. Lütfen Doğru Bir Kategori Giriniz.");
+            Console.WriteLine("Geçersiz Kategori Girişi Yaptınız. Lütfen Doğru Bir Kategori Giriniz.");
         }
     }
 }
