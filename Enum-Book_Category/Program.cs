@@ -30,7 +30,7 @@
                     Console.WriteLine("Psikoloji Kategorisindeki Kitaplar C Reyonunda Yer Almaktadır.");
                     break;
                 default:
-                    Console.WriteLine("Yanlış Bir Tuşlama Yaptınız! Lütfen 0-3 Arası Bir Seçim Yapınız!")
+                    Console.WriteLine("Yanlış Bir Tuşlama Yaptınız! Lütfen 0-3 Arası Bir Seçim Yapınız!");
                     break;
             }
         }
